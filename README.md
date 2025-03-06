@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- My interests include video games and anime
+- I don't have anything interesting to say
+- Food sounds good
 <!--
 **dsur086/dsur086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
